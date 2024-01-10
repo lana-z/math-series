@@ -20,7 +20,11 @@
 ### Tests
 
 - run `pytest` in test_series.py
-
+<!-- 
 - How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- Any tests of note? 
+-->
+
+### Log
+
+- Tues: Fibonacci done, will add Lucas tomorrow
