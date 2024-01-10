@@ -29,3 +29,4 @@
 
 - Tues: Fibonacci done, will add Lucas tomorrow
 - Wed: Edited Fibonacci, added Lucas, working on sum serires
+- Wed: Added some tests, edited code, calling it for now
