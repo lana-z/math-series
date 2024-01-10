@@ -1,3 +1,5 @@
+from math_series.series import fibonacci
+
 def test_fibonacci_one():
     actual = fibonacci(1)
     expected = 0
@@ -15,5 +17,5 @@ def test_fibonacci_three():
 
 def test_fibonacci_five():
     actual = fibonacci(5)
-    expected = 34
+    expected = 3
     assert actual == expected
