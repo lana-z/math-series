@@ -9,8 +9,7 @@
 
 ### Resources
 - ChatGPT
-- [my Microsoft Learn Python for Beginners repo](https://github.com/lana-z/microsoft-learn-python)
-
+- JB's demo: [Class 02](https://github.com/codefellows/seattle-code-python-401d24/tree/main/class-02/demo)
 
 ## Setup
 
