@@ -10,6 +10,7 @@
 ### Resources
 - ChatGPT
 - JB's demo: [Class 02](https://github.com/codefellows/seattle-code-python-401d24/tree/main/class-02/demo)
+- JB's demo: [Class 03](will update when posted)
 
 ## Setup
 
@@ -27,3 +28,5 @@
 ### Log
 
 - Tues: Fibonacci done, will add Lucas tomorrow
+- Wed: Edited Fibonacci, added Lucas, working on sum serires
+- Wed: Added some tests, edited code, calling it for now
